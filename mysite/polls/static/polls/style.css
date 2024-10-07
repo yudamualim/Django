@@ -1,0 +1,11 @@
+/* Styling untuk link */
+a {
+  color: rgb(0, 128, 75);
+}
+
+/* Styling untuk body */
+body {
+  background-color: rgb(255, 255, 255); /* Menggunakan background-color daripada background */
+  background-image: url("images/background.png"); /* Menggunakan background-image untuk menambahkan gambar latar belakang */
+  background-repeat: no-repeat; /* Mengatur agar gambar tidak diulang */
+}
